@@ -8,6 +8,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # End-User Restrictions - How to define "availability" intervals for different resources
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e4144/)**
+<!-- run online end -->
 
 
 <p>This example illustrates how to define different time intervals that are available for scheduling. This information is stored in the <strong>~\App_Data\ResourcesAvailabilities.mdb</strong> database. It has the <strong>ResourcesAvailabilities </strong>table with the following schema:</p><p><strong>Id: Integer, <br />
